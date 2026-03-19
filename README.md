@@ -1,1 +1,1 @@
-# c-basics
+# c++ basics code pratice
